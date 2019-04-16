@@ -1,0 +1,37 @@
+
+{
+    "id":"1",
+    "list":[
+        {id:"1",title:"旺仔小馒头1",imgurl:"/images/s1.jpg",price:"19.90"},
+        {id:"2",title:"旺仔小馒头2",imgurl:"/images/s1.jpg",price:"29.90"},
+        {id:"3",title:"旺仔小馒头3",imgurl:"/images/s1.jpg",price:"39.90"},
+        {id:"4",title:"旺仔小馒头4",imgurl:"/images/s1.jpg",price:"49.90"}
+    ]
+}
+{
+    "id":"2",
+    "list":[
+        {id:"1",title:"旺仔小馒头1",imgurl:"/images/s2.jpg",price:"19.90"},
+        {id:"2",title:"旺仔小馒头2",imgurl:"/images/s2.jpg",price:"29.90"},
+        {id:"3",title:"旺仔小馒头3",imgurl:"/images/s2.jpg",price:"39.90"},
+        {id:"4",title:"旺仔小馒头4",imgurl:"/images/s2.jpg",price:"49.90"}
+    ]
+}
+{
+    "id":"3",
+    "list":[
+        {id:"1",title:"旺仔小馒头1",imgurl:"/images/s3.jpg",price:"19.90"},
+        {id:"2",title:"旺仔小馒头2",imgurl:"/images/s3.jpg",price:"29.90"},
+        {id:"3",title:"旺仔小馒头3",imgurl:"/images/s3.jpg",price:"39.90"},
+        {id:"4",title:"旺仔小馒头4",imgurl:"/images/s3.jpg",price:"49.90"}
+    ]
+}
+
+
+
+
+
+
+
+
+
